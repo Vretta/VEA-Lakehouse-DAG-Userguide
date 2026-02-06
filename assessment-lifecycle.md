@@ -15,20 +15,12 @@ graph LR
     E --> F[06 Data Transfers & Integrations]
     F -.->|Feedback Loop| A
     
-    G[G1 Systems] -.->|External| A
-    G -.->|External| B
-    G -.->|External| C
-    G -.->|External| D
-    G -.->|External| E
-    G -.->|External| F
-    
     style A fill:#e1f5ff
     style B fill:#fff4e1
     style C fill:#e8f5e9
     style D fill:#f3e5f5
     style E fill:#fce4ec
     style F fill:#e0f2f1
-    style G fill:#f5f5f5,stroke:#999,stroke-dasharray: 5 5
 ```
 
 ## Stage Definitions
